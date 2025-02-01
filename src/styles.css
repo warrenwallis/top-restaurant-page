@@ -1,0 +1,41 @@
+:root {
+    --button-color: #10130F;
+    --medium: 500;
+    --semi-bold: 600;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 120px;
+    letter-spacing: 2px;
+    height: 100vh;
+}
+
+.navButton {
+    border: 0;
+    background: white;
+    font-size: 20px;
+    margin-left: 50px;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 0px;
+}
+
+#logo {
+    border: 0;
+    background: white;
+    font-size: 40px;
+    padding: 0;
+}
+
+#spacer {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}

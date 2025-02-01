@@ -1,0 +1,87 @@
+{
+    "home" : {
+    },
+    "menu" : {
+        "items" : [
+            {
+                "name": "Bombay Street Wrap",
+                "description": "Spiced potato filling with mint chutney and pickled onions wrapped in a paratha.",
+                "price": "$9.99"
+            },
+            {
+                "name": "Korean BBQ Fries",
+                "description": "Crispy fries topped with bulgogi beef, kimchi, and spicy mayo.",
+                "price": "$11.49"
+            },
+            {
+                "name": "Churro Bites",
+                "description": "Mini churros dusted in cinnamon sugar with chocolate dipping sauce.",
+                "price": "$6.99"
+            },
+            {
+                "name": "Bangkok Crispy Wings",
+                "description": "Thai-style fried chicken wings tossed in a sweet chili glaze, topped with sesame seeds.",
+                "price": "$10.99"
+            },
+            {
+                "name": "Spicy Paneer Pakoras",
+                "description": "Indian-style battered and fried paneer cubes served with tangy tamarind chutney.",
+                "price": "$9.49"
+            },
+            {
+                "name": "Elote Loco",
+                "description": "Grilled Mexican street corn coated with chipotle mayo, cotija cheese, and tajín.",
+                "price": "$6.99"
+            },
+            {
+                "name": "Hibiscus Agua Fresca",
+                "description": "A refreshing, lightly sweetened hibiscus iced tea.",
+                "price": "$4.99"
+            }
+        ]
+    },
+    "about" : {
+        "our" : {
+            "story": "At Street Spice, we bring the bold, vibrant flavors of global street food to your plate. Inspired by the world’s most iconic street markets—from the sizzling night stalls of Bangkok to the bustling food carts of Mexico City—we create dishes that celebrate spice, culture, and adventure. Every bite is a journey, every dish is a story.",
+            "mission": "We believe that food is a universal language that brings people together. Our mission is to serve authentic, handcrafted, and flavor-packed street food using fresh ingredients and traditional cooking techniques. Whether you're craving fiery heat, tangy zest, or rich umami, Street Spice is your passport to a world of taste."
+        },
+        "location": {
+            "address": "123 Flavors Avenue, Food District, NY 10001",
+            "hours": {
+                "Monday-Thursday": "11 AM - 10 PM",
+                "Friday-Saturday": "11 AM - 11:30 PM",
+                "Sunday": "12 PM - 9 PM"
+            }
+        },
+        "contact": {
+            "phone": "(555) 987-6543",
+            "email": "hello@streetspice.com",
+            "social": "@StreetSpiceEats on Instagram & Facebook"
+        },
+        "newsletter": {
+            "description": "Join the Spice Squad! Sign up for exclusive updates, special deals, and first access to new menu items."
+        }
+    },
+    "footer": {
+        "linkedin": {
+            "img": "./mdi_linkedin.png",
+            "link": "https://www.linkedin.com/in/warrenwallis/"
+        },
+        "github": {
+            "img": "./jam_github.png",
+            "link": "https://github.com/warrenwallis"
+        },
+        "leetcode": {
+            "img": "./cib_leetcode.png",
+            "link": "https://leetcode.com/u/warren_wallis/"
+        },
+        "email": {
+            "img": "./ic_baseline-email.png",
+            "link": "mailto:wspagsuguiron@gmail.com"
+        },
+        "instagram": {
+            "img": "./streamline_instagram-solid.png",
+            "link": "https://www.instagram.com/warren_wallis?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr"
+        }
+    }
+}
